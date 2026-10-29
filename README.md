@@ -3,4 +3,5 @@
 ## Progress
 
 - [x] Week 01 — Completed
-- [ ] Week 02 — Pending
+- [x] Week 02 — Completed
+- [ ] Week 03 — Pending
